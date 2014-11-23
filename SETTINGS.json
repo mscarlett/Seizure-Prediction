@@ -1,0 +1,7 @@
+{
+  "competition-data-dir": "seizure-data",
+  "data-cache-dir": "data-cache",
+  "report-dir" : "reports",
+  "submission-dir": "submissions",
+  "log-file" : "log.txt"
+}
